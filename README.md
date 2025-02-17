@@ -13,5 +13,7 @@ Feel free to explore my projects here and don't hesitate to reach out for collab
 - **Database Management**: MySQL, SQL Server
 - **Statistical Analysis**: Python (SciPy, Statsmodels)
 
-
+** Contact Information
+Email: Comfortrotimi503@gmail.com
+linkedin: www.linkedin.com/in/rotimi-comfort
 
